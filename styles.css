@@ -305,9 +305,10 @@ background-size:cover;
   width:110px;
 }
 
+
  #burger div {
   background:var(--white);
-  width:24px;
+  width:22px;
   margin:3px;
   height:2px;
   transition: transform 0.5s ease;
@@ -316,21 +317,20 @@ background-size:cover;
 #burger {
 position:sticky;
 z-index:9;
-width: 5%;
-height:2%;
+
 top: 0;
 margin-left: 10px;
 Margin-top:5px;
 
 }
  .toggle .line1 {
-  transform:rotate(45deg) translate(5px,7px);
+  transform:rotate(45deg) translate(7px,1px);
  }
  .toggle .line2 {
  opacity:0;
  }
  .toggle .line3 {
-  transform:rotate(-45deg) translate(5px,-7px);
+  transform:rotate(-45deg) translate(7px,-1px);
  }
  .active-nav {
  width:70%;
@@ -416,7 +416,7 @@ Margin-top:5px;
  }
  .storage-head a {
  color:var(--close);
- font-size: 1rem;
+ font-size: 7px;
  text-align: left!important;
  text-decoration:none;
  font-weight:600;
@@ -479,23 +479,11 @@ Margin-top:5px;
     font-size:1.5rem;
 
    }
-   #burger div {
-    background:var(--white);
-    width:30px;
-    margin:5px;
-    height:5px;
-    transition:transform 0.5s ease;
+    #burger div {
+    
     cursor: pointer;
    }
-   toggle .line1 {
-    transform:rotate(45deg) translate(6px,9px);
-   }
-   .toggle .line2 {
-   opacity:0;
-   }
-   .toggle .line3 {
-    transform:rotate(-45deg) translate(6px,-9px);
-   }
+   
 }
 @media  only screen and (min-height:1000px) {
   .page-wrapper {
