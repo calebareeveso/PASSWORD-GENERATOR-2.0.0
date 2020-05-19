@@ -307,9 +307,9 @@ background-size:cover;
 
  #burger div {
   background:var(--white);
-  width:25px;
-  margin:5px;
-  height:3px;
+  width:24px;
+  margin:3px;
+  height:2px;
   transition: transform 0.5s ease;
   cursor: pointer;
  }
@@ -317,10 +317,10 @@ background-size:cover;
 position:sticky;
 z-index:9;
 width: 5%;
-height: auto;
+height:2%;
 top: 0;
 margin-left: 10px;
-
+Margin-top:5px;
 
 }
  .toggle .line1 {
