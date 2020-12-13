@@ -1,7 +1,7 @@
 # PASSWORD GENERATOR
 
 ## INSTALL
- * Click on the [download zip](https://github.com/caleb-007/Password-generator/archive/master.zip) button to get the zip file.
+ * Click on the [download zip](https://github.com/caleb-007/PASSWORD-GENERATOR-2.0.0/archive/master.zip) button to get the zip file.
                      **or**
  * Clone the entire file click on **clone** button and create a folder where the file will be cloned to locally.
      
