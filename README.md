@@ -1,11 +1,11 @@
 # PASSWORD GENERATOR
 
 ## INSTALL
- * Click on the [download zip](https://github.com/caleb-007/PASSWORD-GENERATOR-2.0.0/archive/master.zip) button to get the zip file.
+ * Click on the [download zip](https://github.com/calebareeveso/PASSWORD-GENERATOR-2.0.0/archive/master.zip) button to get the zip file.
                      **or**
  * Clone the entire file click on **clone** button and create a folder where the file will be cloned to locally.
      
-   ```git clone https://github.com/caleb-007/Password-generator.git```\
+   ```git clone https://github.com/calebareeveso/Password-generator.git```\
   To pull the entire file locally into your desktop.
 ### DESCRIPTION
 **Best app for creating passwords**
@@ -26,6 +26,6 @@
 ## CONTRIBUTING 
  Pull request are welcomed,and please open an issue to discuss what you would like to change.
 ## LIVE DEMO
-  LINK:```https://caleb-007.github.io/PASSWORD-GENERATOR-2.0.0/```
+  LINK:```https://calebareeveso.github.io/PASSWORD-GENERATOR-2.0.0/```
 **Or**
-[PASSWORD-GENERATOR](https://caleb-007.github.io/PASSWORD-GENERATOR-2.0.0/)
+[PASSWORD-GENERATOR](https://calebareeveso.github.io/PASSWORD-GENERATOR-2.0.0/)
